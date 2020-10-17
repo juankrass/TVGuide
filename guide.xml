@@ -1,0 +1,1215 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="PAN | TVN 2 op2">
+    <display-name lang="es">PAN | TVN 2 op2</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/2_de_panama-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="PAN | TVN 2">
+    <display-name lang="es">PAN | PAN | TVN 2</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/2_de_panama-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="PAN | TELEMETRO 13 op2">
+    <display-name lang="es">PAN | TELEMETRO 13 op2</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_panama-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="PAN | RPC 4">
+    <display-name lang="es">PAN | RPC 4</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/4_de_panama-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="SER TV">
+    <display-name lang="en">SER TV</display-name>
+    <url>http://www.go.cableonda.com.EK</url>
+  </channel>
+  <channel id="PAN | TV MAX 9">
+    <display-name lang="en">PAN | TV MAX 9</display-name>
+    <url>http://www.go.cableonda.com.EK</url>
+  </channel>
+  <channel id="BEIN SPORTS *FHD">
+    <display-name lang="es">BEIN SPORTS *FHD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/being_sports_en_espanol-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201017010000 -0500" stop="20201017023000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Sabores del Chef</title>
+  </programme>
+  <programme start="20201017023000 -0500" stop="20201017040000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Hecho en Panamá</title>
+  </programme>
+  <programme start="20201017040000 -0500" stop="20201017050000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Los reyes del humor</title>
+  </programme>
+  <programme start="20201017050000 -0500" stop="20201017060000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Los reyes del humor</title>
+  </programme>
+  <programme start="20201017060000 -0500" stop="20201017080000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Casper</title>
+  </programme>
+  <programme start="20201017080000 -0500" stop="20201017100000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">King Julien</title>
+  </programme>
+  <programme start="20201017100000 -0500" stop="20201017120000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Dragons riders of berk</title>
+  </programme>
+  <programme start="20201017120000 -0500" stop="20201017130000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">The Nanny</title>
+  </programme>
+  <programme start="20201017130000 -0500" stop="20201017140000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Bewitched</title>
+  </programme>
+  <programme start="20201017140000 -0500" stop="20201017160000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Jessica darling's it list</title>
+  </programme>
+  <programme start="20201017160000 -0500" stop="20201017180000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20201017180000 -0500" stop="20201017190000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Noticias fin de semana</title>
+  </programme>
+  <programme start="20201017190000 -0500" stop="20201017200000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Hecho en Panamá</title>
+  </programme>
+  <programme start="20201017200000 -0500" stop="20201017213000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">La cáscara</title>
+  </programme>
+  <programme start="20201017213000 -0500" stop="20201017233000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Su excelencia</title>
+  </programme>
+  <programme start="20201017233000 -0500" stop="20201018010000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Los reyes del humor</title>
+  </programme>
+  <programme start="20201018010000 -0500" stop="20201018023000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">La cáscara</title>
+  </programme>
+  <programme start="20201018023000 -0500" stop="20201018033000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Hecho en Panamá</title>
+  </programme>
+  <programme start="20201018033000 -0500" stop="20201018050000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Sabores del Chef</title>
+  </programme>
+  <programme start="20201018050000 -0500" stop="20201018063000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Resumen El Clon</title>
+  </programme>
+  <programme start="20201018063000 -0500" stop="20201018073000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">King Julien</title>
+  </programme>
+  <programme start="20201018073000 -0500" stop="20201018080000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Agro tv</title>
+  </programme>
+  <programme start="20201018080000 -0500" stop="20201018090000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20201018090000 -0500" stop="20201018110000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Radar</title>
+  </programme>
+  <programme start="20201018110000 -0500" stop="20201018113000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Recetas Solidarias</title>
+  </programme>
+  <programme start="20201018113000 -0500" stop="20201018120000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Panamá Salvaje</title>
+  </programme>
+  <programme start="20201018120000 -0500" stop="20201018123000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Dragons riders of berk</title>
+  </programme>
+  <programme start="20201018123000 -0500" stop="20201018130000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">El pop corn</title>
+  </programme>
+  <programme start="20201018130000 -0500" stop="20201018133000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">La lotería</title>
+  </programme>
+  <programme start="20201018133000 -0500" stop="20201018153000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Resumen Fuerza de Mujer</title>
+  </programme>
+  <programme start="20201018153000 -0500" stop="20201018180000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20201018190000 -0500" stop="20201018220000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">The Hunger Games Mocking Jay</title>
+  </programme>
+  <programme start="20201018220000 -0500" stop="20201019000000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Cine TVN</title>
+  </programme>
+  <programme start="20201019000000 -0500" stop="20201019010000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Los reyes del humor</title>
+  </programme>
+  <programme start="20201019010000 -0500" stop="20201019030000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Radar</title>
+  </programme>
+  <programme start="20201019030000 -0500" stop="20201019040000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Sabores del Chef</title>
+  </programme>
+  <programme start="20201019040000 -0500" stop="20201019050000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Hecho en Panamá</title>
+  </programme>
+  <programme start="20201019050000 -0500" stop="20201019060000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Fuerza de Mujer</title>
+  </programme>
+  <programme start="20201019060000 -0500" stop="20201019080000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Noticiero AM</title>
+  </programme>
+  <programme start="20201019080000 -0500" stop="20201019110000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Jelou</title>
+  </programme>
+  <programme start="20201019110000 -0500" stop="20201019120000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">La Trampa</title>
+  </programme>
+  <programme start="20201019120000 -0500" stop="20201019130000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">TVN Noticias -medio día</title>
+  </programme>
+  <programme start="20201019130000 -0500" stop="20201019140000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Al Rojo Vivo</title>
+  </programme>
+  <programme start="20201019140000 -0500" stop="20201019150000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Mujeres rompiendo el silencio</title>
+  </programme>
+  <programme start="20201019150000 -0500" stop="20201019160000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Mujer desconocida</title>
+  </programme>
+  <programme start="20201019160000 -0500" stop="20201019180000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20201019180000 -0500" stop="20201019200000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Noticiero estelar</title>
+  </programme>
+  <programme start="20201019200000 -0500" stop="20201019220000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Mi familia cocina Pritty</title>
+  </programme>
+  <programme start="20201019220000 -0500" stop="20201019230000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">100 días para enamorarnos</title>
+  </programme>
+  <programme start="20201019230000 -0500" stop="20201019233000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">La ley secreta</title>
+  </programme>
+  <programme start="20201019233000 -0500" stop="20201020003000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20201020233000 -0500" stop="20201021003000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20201021003000 -0500" stop="20201021010000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Los reyes del humor</title>
+  </programme>
+  <programme start="20201021010000 -0500" stop="20201021023000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Sabores del Chef</title>
+  </programme>
+  <programme start="20201021023000 -0500" stop="20201021040000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Hecho en Panamá</title>
+  </programme>
+  <programme start="20201021040000 -0500" stop="20201021050000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Los reyes del humor</title>
+  </programme>
+  <programme start="20201021050000 -0500" stop="20201021060000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Fuerza de Mujer</title>
+  </programme>
+  <programme start="20201021060000 -0500" stop="20201021080000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Noticiero AM</title>
+  </programme>
+  <programme start="20201021080000 -0500" stop="20201021110000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Jelou</title>
+  </programme>
+  <programme start="20201021110000 -0500" stop="20201021120000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">La Trampa</title>
+  </programme>
+  <programme start="20201021120000 -0500" stop="20201021130000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">TVN Noticias -medio día</title>
+  </programme>
+  <programme start="20201021130000 -0500" stop="20201021140000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Al Rojo Vivo</title>
+  </programme>
+  <programme start="20201021140000 -0500" stop="20201021150000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Mujeres rompiendo el silencio</title>
+  </programme>
+  <programme start="20201021150000 -0500" stop="20201021160000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Mujer desconocida</title>
+  </programme>
+  <programme start="20201021180000 -0500" stop="20201021200000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Noticiero estelar</title>
+  </programme>
+  <programme start="20201021200000 -0500" stop="20201021213000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Fuerza de Mujer</title>
+  </programme>
+  <programme start="20201021213000 -0500" stop="20201021223000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">100 días para enamorarnos</title>
+  </programme>
+  <programme start="20201021223000 -0500" stop="20201021230000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">La ley secreta</title>
+  </programme>
+  <programme start="20201021230000 -0500" stop="20201022000000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20201022200000 -0500" stop="20201022213000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">Fuerza de Mujer</title>
+  </programme>
+  <programme start="20201022213000 -0500" stop="20201022223000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">100 días para enamorarnos</title>
+  </programme>
+  <programme start="20201022223000 -0500" stop="20201022230000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">La ley secreta</title>
+  </programme>
+  <programme start="20201022230000 -0500" stop="20201023000000 -0500" channel="PAN | TVN 2 op2">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20201017010000 -0500" stop="20201017023000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Sabores del Chef</title>
+  </programme>
+  <programme start="20201017023000 -0500" stop="20201017040000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Hecho en Panamá</title>
+  </programme>
+  <programme start="20201017040000 -0500" stop="20201017050000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Los reyes del humor</title>
+  </programme>
+  <programme start="20201017050000 -0500" stop="20201017060000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Los reyes del humor</title>
+  </programme>
+  <programme start="20201017060000 -0500" stop="20201017080000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Casper</title>
+  </programme>
+  <programme start="20201017080000 -0500" stop="20201017100000 -0500" channel="PAN | TVN 2">
+    <title lang="es">King Julien</title>
+  </programme>
+  <programme start="20201017100000 -0500" stop="20201017120000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Dragons riders of berk</title>
+  </programme>
+  <programme start="20201017120000 -0500" stop="20201017130000 -0500" channel="PAN | TVN 2">
+    <title lang="es">The Nanny</title>
+  </programme>
+  <programme start="20201017130000 -0500" stop="20201017140000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Bewitched</title>
+  </programme>
+  <programme start="20201017140000 -0500" stop="20201017160000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Jessica darling's it list</title>
+  </programme>
+  <programme start="20201017160000 -0500" stop="20201017180000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20201017180000 -0500" stop="20201017190000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Noticias fin de semana</title>
+  </programme>
+  <programme start="20201017190000 -0500" stop="20201017200000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Hecho en Panamá</title>
+  </programme>
+  <programme start="20201017200000 -0500" stop="20201017213000 -0500" channel="PAN | TVN 2">
+    <title lang="es">La cáscara</title>
+  </programme>
+  <programme start="20201017213000 -0500" stop="20201017233000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Su excelencia</title>
+  </programme>
+  <programme start="20201017233000 -0500" stop="20201018010000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Los reyes del humor</title>
+  </programme>
+  <programme start="20201018010000 -0500" stop="20201018023000 -0500" channel="PAN | TVN 2">
+    <title lang="es">La cáscara</title>
+  </programme>
+  <programme start="20201018023000 -0500" stop="20201018033000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Hecho en Panamá</title>
+  </programme>
+  <programme start="20201018033000 -0500" stop="20201018050000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Sabores del Chef</title>
+  </programme>
+  <programme start="20201018050000 -0500" stop="20201018063000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Resumen El Clon</title>
+  </programme>
+  <programme start="20201018063000 -0500" stop="20201018073000 -0500" channel="PAN | TVN 2">
+    <title lang="es">King Julien</title>
+  </programme>
+  <programme start="20201018073000 -0500" stop="20201018080000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Agro tv</title>
+  </programme>
+  <programme start="20201018080000 -0500" stop="20201018090000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20201018090000 -0500" stop="20201018110000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Radar</title>
+  </programme>
+  <programme start="20201018110000 -0500" stop="20201018113000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Recetas Solidarias</title>
+  </programme>
+  <programme start="20201018113000 -0500" stop="20201018120000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Panamá Salvaje</title>
+  </programme>
+  <programme start="20201018120000 -0500" stop="20201018123000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Dragons riders of berk</title>
+  </programme>
+  <programme start="20201018123000 -0500" stop="20201018130000 -0500" channel="PAN | TVN 2">
+    <title lang="es">El pop corn</title>
+  </programme>
+  <programme start="20201018130000 -0500" stop="20201018133000 -0500" channel="PAN | TVN 2">
+    <title lang="es">La lotería</title>
+  </programme>
+  <programme start="20201018133000 -0500" stop="20201018153000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Resumen Fuerza de Mujer</title>
+  </programme>
+  <programme start="20201018153000 -0500" stop="20201018180000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20201018190000 -0500" stop="20201018220000 -0500" channel="PAN | TVN 2">
+    <title lang="es">The Hunger Games Mocking Jay</title>
+  </programme>
+  <programme start="20201018220000 -0500" stop="20201019000000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Cine TVN</title>
+  </programme>
+  <programme start="20201019000000 -0500" stop="20201019010000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Los reyes del humor</title>
+  </programme>
+  <programme start="20201019010000 -0500" stop="20201019030000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Radar</title>
+  </programme>
+  <programme start="20201019030000 -0500" stop="20201019040000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Sabores del Chef</title>
+  </programme>
+  <programme start="20201019040000 -0500" stop="20201019050000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Hecho en Panamá</title>
+  </programme>
+  <programme start="20201019050000 -0500" stop="20201019060000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Fuerza de Mujer</title>
+  </programme>
+  <programme start="20201019060000 -0500" stop="20201019080000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Noticiero AM</title>
+  </programme>
+  <programme start="20201019080000 -0500" stop="20201019110000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Jelou</title>
+  </programme>
+  <programme start="20201019110000 -0500" stop="20201019120000 -0500" channel="PAN | TVN 2">
+    <title lang="es">La Trampa</title>
+  </programme>
+  <programme start="20201019120000 -0500" stop="20201019130000 -0500" channel="PAN | TVN 2">
+    <title lang="es">TVN Noticias -medio día</title>
+  </programme>
+  <programme start="20201019130000 -0500" stop="20201019140000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Al Rojo Vivo</title>
+  </programme>
+  <programme start="20201019140000 -0500" stop="20201019150000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Mujeres rompiendo el silencio</title>
+  </programme>
+  <programme start="20201019150000 -0500" stop="20201019160000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Mujer desconocida</title>
+  </programme>
+  <programme start="20201019160000 -0500" stop="20201019180000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20201019180000 -0500" stop="20201019200000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Noticiero estelar</title>
+  </programme>
+  <programme start="20201019200000 -0500" stop="20201019220000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Mi familia cocina Pritty</title>
+  </programme>
+  <programme start="20201019220000 -0500" stop="20201019230000 -0500" channel="PAN | TVN 2">
+    <title lang="es">100 días para enamorarnos</title>
+  </programme>
+  <programme start="20201019230000 -0500" stop="20201019233000 -0500" channel="PAN | TVN 2">
+    <title lang="es">La ley secreta</title>
+  </programme>
+  <programme start="20201019233000 -0500" stop="20201020003000 -0500" channel="PAN | TVN 2">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20201020233000 -0500" stop="20201021003000 -0500" channel="PAN | TVN 2">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20201021003000 -0500" stop="20201021010000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Los reyes del humor</title>
+  </programme>
+  <programme start="20201021010000 -0500" stop="20201021023000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Sabores del Chef</title>
+  </programme>
+  <programme start="20201021023000 -0500" stop="20201021040000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Hecho en Panamá</title>
+  </programme>
+  <programme start="20201021040000 -0500" stop="20201021050000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Los reyes del humor</title>
+  </programme>
+  <programme start="20201021050000 -0500" stop="20201021060000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Fuerza de Mujer</title>
+  </programme>
+  <programme start="20201021060000 -0500" stop="20201021080000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Noticiero AM</title>
+  </programme>
+  <programme start="20201021080000 -0500" stop="20201021110000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Jelou</title>
+  </programme>
+  <programme start="20201021110000 -0500" stop="20201021120000 -0500" channel="PAN | TVN 2">
+    <title lang="es">La Trampa</title>
+  </programme>
+  <programme start="20201021120000 -0500" stop="20201021130000 -0500" channel="PAN | TVN 2">
+    <title lang="es">TVN Noticias -medio día</title>
+  </programme>
+  <programme start="20201021130000 -0500" stop="20201021140000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Al Rojo Vivo</title>
+  </programme>
+  <programme start="20201021140000 -0500" stop="20201021150000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Mujeres rompiendo el silencio</title>
+  </programme>
+  <programme start="20201021150000 -0500" stop="20201021160000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Mujer desconocida</title>
+  </programme>
+  <programme start="20201021180000 -0500" stop="20201021200000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Noticiero estelar</title>
+  </programme>
+  <programme start="20201021200000 -0500" stop="20201021213000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Fuerza de Mujer</title>
+  </programme>
+  <programme start="20201021213000 -0500" stop="20201021223000 -0500" channel="PAN | TVN 2">
+    <title lang="es">100 días para enamorarnos</title>
+  </programme>
+  <programme start="20201021223000 -0500" stop="20201021230000 -0500" channel="PAN | TVN 2">
+    <title lang="es">La ley secreta</title>
+  </programme>
+  <programme start="20201021230000 -0500" stop="20201022000000 -0500" channel="PAN | TVN 2">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20201022200000 -0500" stop="20201022213000 -0500" channel="PAN | TVN 2">
+    <title lang="es">Fuerza de Mujer</title>
+  </programme>
+  <programme start="20201022213000 -0500" stop="20201022223000 -0500" channel="PAN | TVN 2">
+    <title lang="es">100 días para enamorarnos</title>
+  </programme>
+  <programme start="20201022223000 -0500" stop="20201022230000 -0500" channel="PAN | TVN 2">
+    <title lang="es">La ley secreta</title>
+  </programme>
+  <programme start="20201022230000 -0500" stop="20201023000000 -0500" channel="PAN | TVN 2">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20201017010000 -0500" stop="20201017023000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Quién TV</title>
+  </programme>
+  <programme start="20201017023000 -0500" stop="20201017043000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Telemetro Reporta</title>
+  </programme>
+  <programme start="20201017043000 -0500" stop="20201017050000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Mas que Cine</title>
+  </programme>
+  <programme start="20201017050000 -0500" stop="20201017070000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Infantiles</title>
+  </programme>
+  <programme start="20201017070000 -0500" stop="20201017100000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Cinema Telemetro</title>
+  </programme>
+  <programme start="20201017100000 -0500" stop="20201017130000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Cinema Telemetro</title>
+  </programme>
+  <programme start="20201017130000 -0500" stop="20201017140000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Cinema Telemetro</title>
+  </programme>
+  <programme start="20201017140000 -0500" stop="20201017180000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201017180000 -0500" stop="20201017190000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Telemetro Reporta</title>
+  </programme>
+  <programme start="20201017190000 -0500" stop="20201017200000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">A lo Panameño</title>
+  </programme>
+  <programme start="20201017200000 -0500" stop="20201017213000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Quién TV</title>
+  </programme>
+  <programme start="20201017213000 -0500" stop="20201017223000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Da'Flow Internacional</title>
+  </programme>
+  <programme start="20201017223000 -0500" stop="20201018003000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Cinema Telemetro</title>
+  </programme>
+  <programme start="20201018223000 -0500" stop="20201019003000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Cinema Telemetro</title>
+  </programme>
+  <programme start="20201019003000 -0500" stop="20201019013000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Quién TV</title>
+  </programme>
+  <programme start="20201019013000 -0500" stop="20201019023000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Da'Flow Internacional</title>
+  </programme>
+  <programme start="20201019023000 -0500" stop="20201019033000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Telemetro Reporta</title>
+  </programme>
+  <programme start="20201019033000 -0500" stop="20201019050000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">A lo Panameño</title>
+  </programme>
+  <programme start="20201019050000 -0500" stop="20201019080000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Animados</title>
+  </programme>
+  <programme start="20201019080000 -0500" stop="20201019090000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">La santa misa</title>
+  </programme>
+  <programme start="20201019090000 -0500" stop="20201019110000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Debate Abierto Dominical</title>
+  </programme>
+  <programme start="20201019110000 -0500" stop="20201019113000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Cara a Cara</title>
+  </programme>
+  <programme start="20201019113000 -0500" stop="20201019120000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Flor Mizrachi Pregunta</title>
+  </programme>
+  <programme start="20201019120000 -0500" stop="20201019123000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Mas que Cine</title>
+  </programme>
+  <programme start="20201019123000 -0500" stop="20201019130000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Muertos de Hambre</title>
+  </programme>
+  <programme start="20201019130000 -0500" stop="20201019143000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Fuego vs. Fuego</title>
+  </programme>
+  <programme start="20201019143000 -0500" stop="20201019160000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">La sra. Fazilet y sus hijas</title>
+  </programme>
+  <programme start="20201019160000 -0500" stop="20201019180000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Cinema Telemetro</title>
+  </programme>
+  <programme start="20201019190000 -0500" stop="20201019230000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Cinema Telemetro</title>
+  </programme>
+  <programme start="20201019230000 -0500" stop="20201019233000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Mas que Cine</title>
+  </programme>
+  <programme start="20201019233000 -0500" stop="20201020010000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">A lo Panameño</title>
+  </programme>
+  <programme start="20201020010000 -0500" stop="20201020014800 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Mas que Cine</title>
+  </programme>
+  <programme start="20201020014800 -0500" stop="20201020023000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">A lo Panameño</title>
+  </programme>
+  <programme start="20201020023000 -0500" stop="20201020043000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Telemetro Reporta</title>
+  </programme>
+  <programme start="20201020043000 -0500" stop="20201020050000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Mamás and CO</title>
+  </programme>
+  <programme start="20201020050000 -0500" stop="20201020060000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20201020060000 -0500" stop="20201020080000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Telemetro Reporta</title>
+  </programme>
+  <programme start="20201020080000 -0500" stop="20201020110000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Tu Mañana</title>
+  </programme>
+  <programme start="20201020110000 -0500" stop="20201020120000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20201020120000 -0500" stop="20201020130000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Telemetro Reporta</title>
+  </programme>
+  <programme start="20201020130000 -0500" stop="20201020143000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201020143000 -0500" stop="20201020154500 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Lo que la Vida me Robó</title>
+  </programme>
+  <programme start="20201020154500 -0500" stop="20201020170000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Te doy la vida</title>
+  </programme>
+  <programme start="20201020170000 -0500" stop="20201020180000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">La tierra prometida</title>
+  </programme>
+  <programme start="20201020180000 -0500" stop="20201020200000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Telemetro Reporta</title>
+  </programme>
+  <programme start="20201020200000 -0500" stop="20201020220000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">La sra. Fazilet y sus hijas</title>
+  </programme>
+  <programme start="20201020220000 -0500" stop="20201020224000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Jezabel</title>
+  </programme>
+  <programme start="20201020224000 -0500" stop="20201020231500 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Médicos Línea de vida</title>
+  </programme>
+  <programme start="20201020231500 -0500" stop="20201020233000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Telemetro Reporta</title>
+  </programme>
+  <programme start="20201020233000 -0500" stop="20201021000000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Muertos de Hambre</title>
+  </programme>
+  <programme start="20201021010000 -0500" stop="20201021013000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Mamás and CO</title>
+  </programme>
+  <programme start="20201021043000 -0500" stop="20201021050000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Mas que Cine</title>
+  </programme>
+  <programme start="20201021180000 -0500" stop="20201021200400 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Telemetro Reporta</title>
+  </programme>
+  <programme start="20201021200400 -0500" stop="20201021204500 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">La sra. Fazilet y sus hijas</title>
+  </programme>
+  <programme start="20201021204500 -0500" stop="20201021220500 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Fuego vs. Fuego</title>
+  </programme>
+  <programme start="20201021220500 -0500" stop="20201021224000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Jezabel</title>
+  </programme>
+  <programme start="20201021224000 -0500" stop="20201021232000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Médicos Línea de vida</title>
+  </programme>
+  <programme start="20201021232000 -0500" stop="20201021235000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Telemetro Reporta</title>
+  </programme>
+  <programme start="20201021235000 -0500" stop="20201022000500 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Cara a Cara</title>
+  </programme>
+  <programme start="20201022000500 -0500" stop="20201022010000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Da'Flow Internacional</title>
+  </programme>
+  <programme start="20201022010000 -0500" stop="20201022013000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Mas que Cine</title>
+  </programme>
+  <programme start="20201022013000 -0500" stop="20201022023000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Quién TV</title>
+  </programme>
+  <programme start="20201022043000 -0500" stop="20201022050000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Mamás and CO</title>
+  </programme>
+  <programme start="20201022050000 -0500" stop="20201022060000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20201022060000 -0500" stop="20201022080000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Telemetro Reporta</title>
+  </programme>
+  <programme start="20201022080000 -0500" stop="20201022110000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Tu Mañana</title>
+  </programme>
+  <programme start="20201022110000 -0500" stop="20201022120000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20201022120000 -0500" stop="20201022130000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Telemetro Reporta</title>
+  </programme>
+  <programme start="20201022130000 -0500" stop="20201022143000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201022143000 -0500" stop="20201022154500 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Lo que la Vida me Robó</title>
+  </programme>
+  <programme start="20201022154500 -0500" stop="20201022170000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Te doy la vida</title>
+  </programme>
+  <programme start="20201022170000 -0500" stop="20201022180000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">La tierra prometida</title>
+  </programme>
+  <programme start="20201022180000 -0500" stop="20201022200400 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Telemetro Reporta</title>
+  </programme>
+  <programme start="20201022200400 -0500" stop="20201022210000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">La sra. Fazilet y sus hijas</title>
+  </programme>
+  <programme start="20201022210000 -0500" stop="20201022214500 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Hercai</title>
+  </programme>
+  <programme start="20201022214500 -0500" stop="20201022221500 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">La sra. Fazilet y sus hijas</title>
+  </programme>
+  <programme start="20201022221500 -0500" stop="20201022224500 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Jezabel</title>
+  </programme>
+  <programme start="20201022224500 -0500" stop="20201022233000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Médicos Línea de vida</title>
+  </programme>
+  <programme start="20201022233000 -0500" stop="20201023000000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Telemetro Reporta</title>
+  </programme>
+  <programme start="20201023000000 -0500" stop="20201023010000 -0500" channel="PAN | TELEMETRO 13 op2">
+    <title lang="es">Quién TV</title>
+  </programme>
+  <programme start="20201017010000 -0500" stop="20201017040000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Cierre de planta</title>
+  </programme>
+  <programme start="20201017040000 -0500" stop="20201017050000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Oración al Espiritu Santo</title>
+  </programme>
+  <programme start="20201017050000 -0500" stop="20201017060000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20201017060000 -0500" stop="20201017083000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Animados</title>
+  </programme>
+  <programme start="20201017083000 -0500" stop="20201017090000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Amanece con Marilú</title>
+  </programme>
+  <programme start="20201017090000 -0500" stop="20201017120000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20201017120000 -0500" stop="20201017150000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Películas RPC</title>
+  </programme>
+  <programme start="20201017150000 -0500" stop="20201017185000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Películas RPC</title>
+  </programme>
+  <programme start="20201017185000 -0500" stop="20201017220000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Campeonato Nacional de Béisbol</title>
+  </programme>
+  <programme start="20201017220000 -0500" stop="20201017230000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Lo mejor del boxeo</title>
+  </programme>
+  <programme start="20201017230000 -0500" stop="20201018000000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20201018000000 -0500" stop="20201018010000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Oración al Espiritu Santo</title>
+  </programme>
+  <programme start="20201018060000 -0500" stop="20201018063000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Abrid las Puertas al Redentor</title>
+  </programme>
+  <programme start="20201018063000 -0500" stop="20201018070000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Un mensaje al Corazón</title>
+  </programme>
+  <programme start="20201018070000 -0500" stop="20201018080000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Agro y más</title>
+  </programme>
+  <programme start="20201018080000 -0500" stop="20201018110000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20201018110000 -0500" stop="20201018113000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Rutas de mi País</title>
+  </programme>
+  <programme start="20201018113000 -0500" stop="20201018130000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20201018130000 -0500" stop="20201018133500 -0500" channel="PAN | RPC 4">
+    <title lang="es">Loteria nacional</title>
+  </programme>
+  <programme start="20201018133500 -0500" stop="20201018165000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Películas RPC</title>
+  </programme>
+  <programme start="20201018165000 -0500" stop="20201018194000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20201018194000 -0500" stop="20201018234000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Campeonato Nacional de Béisbol</title>
+  </programme>
+  <programme start="20201018234000 -0500" stop="20201019020000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20201019020000 -0500" stop="20201019023000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20201019023000 -0500" stop="20201019040000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20201019040000 -0500" stop="20201019050000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Oración al Espiritu Santo</title>
+  </programme>
+  <programme start="20201019050000 -0500" stop="20201019060000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20201019060000 -0500" stop="20201019090000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Animados</title>
+  </programme>
+  <programme start="20201019090000 -0500" stop="20201019110000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Conéctate a la Estrella</title>
+  </programme>
+  <programme start="20201019110000 -0500" stop="20201019130000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Animados</title>
+  </programme>
+  <programme start="20201019130000 -0500" stop="20201019150000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20201019150000 -0500" stop="20201019160000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Fbi</title>
+  </programme>
+  <programme start="20201019160000 -0500" stop="20201019190000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20201019190000 -0500" stop="20201019230000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Campeonato Nacional de Béisbol</title>
+  </programme>
+  <programme start="20201019230000 -0500" stop="20201020000000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20201020060000 -0500" stop="20201020090000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Animados</title>
+  </programme>
+  <programme start="20201020090000 -0500" stop="20201020110000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Conéctate a la Estrella</title>
+  </programme>
+  <programme start="20201020110000 -0500" stop="20201020130000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Animados</title>
+  </programme>
+  <programme start="20201020130000 -0500" stop="20201020150000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20201020150000 -0500" stop="20201020160000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Fbi</title>
+  </programme>
+  <programme start="20201020160000 -0500" stop="20201020190000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20201020190000 -0500" stop="20201020204500 -0500" channel="PAN | RPC 4">
+    <title lang="es">Películas RPC</title>
+  </programme>
+  <programme start="20201020204500 -0500" stop="20201020233000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Panamá vs. Costa Rica</title>
+  </programme>
+  <programme start="20201020233000 -0500" stop="20201021000000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Jaime Bayly</title>
+  </programme>
+  <programme start="20201021090000 -0500" stop="20201021110000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Conéctate con La Estrella</title>
+  </programme>
+  <programme start="20201021190000 -0500" stop="20201021210000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Películas RPC</title>
+  </programme>
+  <programme start="20201021210000 -0500" stop="20201021220000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20201021220000 -0500" stop="20201021230000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Jaime Bayly</title>
+  </programme>
+  <programme start="20201022090000 -0500" stop="20201022120000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Animados</title>
+  </programme>
+  <programme start="20201022120000 -0500" stop="20201022130000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Animados</title>
+  </programme>
+  <programme start="20201022130000 -0500" stop="20201022160000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Beisbol Grandes Ligas</title>
+  </programme>
+  <programme start="20201022160000 -0500" stop="20201022180000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Series RPC</title>
+  </programme>
+  <programme start="20201022180000 -0500" stop="20201022200000 -0500" channel="PAN | RPC 4">
+    <title lang="es">Películas RPC</title>
+  </programme>
+  <programme start="20201017020000 -0500" stop="20201017023000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201017023000 -0500" stop="20201017030000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201017030000 -0500" stop="20201017033000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201017033000 -0500" stop="20201017040000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201017040000 -0500" stop="20201017043000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201017043000 -0500" stop="20201017050000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201017050000 -0500" stop="20201017053000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201017053000 -0500" stop="20201017060000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201017060000 -0500" stop="20201017063000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201017063000 -0500" stop="20201017070000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201017070000 -0500" stop="20201017073000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201017073000 -0500" stop="20201017080000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20201017080000 -0500" stop="20201017083000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">La liga show</title>
+  </programme>
+  <programme start="20201017083000 -0500" stop="20201017085000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20201017085000 -0500" stop="20201017110000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Celta vs. Atlético de Madrid</title>
+  </programme>
+  <programme start="20201017110000 -0500" stop="20201017112000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20201017112000 -0500" stop="20201017133000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Real Madrid vs. Cádiz</title>
+  </programme>
+  <programme start="20201017133000 -0500" stop="20201017135000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20201017135000 -0500" stop="20201017160000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Getafe Vs. Barcelona</title>
+  </programme>
+  <programme start="20201017160000 -0500" stop="20201017170000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20201017170000 -0500" stop="20201017173000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20201017173000 -0500" stop="20201017193000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Granada vs. Sevilla</title>
+  </programme>
+  <programme start="20201017193000 -0500" stop="20201017203000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20201017203000 -0500" stop="20201017210000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20201017210000 -0500" stop="20201017230000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Trabzonspor AS vs. Basaksehir</title>
+  </programme>
+  <programme start="20201017230000 -0500" stop="20201018010000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Celta vs. Atlético de Madrid</title>
+  </programme>
+  <programme start="20201018010000 -0500" stop="20201018020000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20201018020000 -0500" stop="20201018023000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201018023000 -0500" stop="20201018030000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201018030000 -0500" stop="20201018033000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201018033000 -0500" stop="20201018040000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201018040000 -0500" stop="20201018043000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201018043000 -0500" stop="20201018050000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201018050000 -0500" stop="20201018053000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201018053000 -0500" stop="20201018060000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201018060000 -0500" stop="20201018063000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201018063000 -0500" stop="20201018070000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201018070000 -0500" stop="20201018073000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201018073000 -0500" stop="20201018080000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">LaLiga 2020-2021: Real Madrid vs. Cádiz</title>
+  </programme>
+  <programme start="20201018080000 -0500" stop="20201018083000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">LaLiga 2020-2021: Getafe vs. Barcelona</title>
+  </programme>
+  <programme start="20201018083000 -0500" stop="20201018085000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20201018085000 -0500" stop="20201018110000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Villarreal vs. Valencia</title>
+  </programme>
+  <programme start="20201018110000 -0500" stop="20201018112000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20201018112000 -0500" stop="20201018133000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Huesca vs. Valladolid</title>
+  </programme>
+  <programme start="20201018133000 -0500" stop="20201018135000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20201018135000 -0500" stop="20201018160000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Betis vs. Real Sociedad</title>
+  </programme>
+  <programme start="20201018160000 -0500" stop="20201018170000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20201018170000 -0500" stop="20201018173000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20201018173000 -0500" stop="20201018193000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Göztepe A.S. vs. Fenerbahce SK</title>
+  </programme>
+  <programme start="20201018193000 -0500" stop="20201018203000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20201018203000 -0500" stop="20201018210000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20201018210000 -0500" stop="20201018230000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Real Madrid vs. Cádiz</title>
+  </programme>
+  <programme start="20201018230000 -0500" stop="20201019010000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Getafe Vs. Barcelona</title>
+  </programme>
+  <programme start="20201019230000 -0500" stop="20201020010000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Getafe Vs. Barcelona</title>
+  </programme>
+  <programme start="20201020060000 -0500" stop="20201020063000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20201020063000 -0500" stop="20201020070000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Super Liga 2020-2021: Göztepe vs. Fenerbahce</title>
+  </programme>
+  <programme start="20201020073000 -0500" stop="20201020080000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">IMSA The Road to Racing 2019</title>
+  </programme>
+  <programme start="20201020080000 -0500" stop="20201020083000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20201020083000 -0500" stop="20201020090000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Celta vs. Atlético de Madrid</title>
+  </programme>
+  <programme start="20201020090000 -0500" stop="20201020093000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Ligue 1 2020-2021: Nimes vs. Paris Saint Germain</title>
+  </programme>
+  <programme start="20201020093000 -0500" stop="20201020100000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201020100000 -0500" stop="20201020115500 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Athletic Club vs. Levante</title>
+  </programme>
+  <programme start="20201020115500 -0500" stop="20201020140000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Galatasaray vs. Alanyaspor</title>
+  </programme>
+  <programme start="20201020140000 -0500" stop="20201020160000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">10/11: F.C. Barcelona - Real Madrid</title>
+  </programme>
+  <programme start="20201020160000 -0500" stop="20201020163000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20201020163000 -0500" stop="20201020173000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">La Liga Highlight Zone</title>
+  </programme>
+  <programme start="20201020173000 -0500" stop="20201020180000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Ligue 1 Show</title>
+  </programme>
+  <programme start="20201020180000 -0500" stop="20201020200000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Nimes vs. Paris Saint-Germain</title>
+  </programme>
+  <programme start="20201020200000 -0500" stop="20201020210000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20201020210000 -0500" stop="20201020230000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Galatasaray vs. Alanyaspor</title>
+  </programme>
+  <programme start="20201020230000 -0500" stop="20201021000000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20201021000000 -0500" stop="20201021020000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Real Madrid vs. Cádiz</title>
+  </programme>
+  <programme start="20201021060000 -0500" stop="20201021070000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20201021073000 -0500" stop="20201021080000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Ligue 1 Show</title>
+  </programme>
+  <programme start="20201021080000 -0500" stop="20201021090000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20201021090000 -0500" stop="20201021093000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Super Liga 2020-2021: Galatasaray vs. Alanyaspor</title>
+  </programme>
+  <programme start="20201021093000 -0500" stop="20201021100000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201021100000 -0500" stop="20201021120000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Eibar vs. Osasuna</title>
+  </programme>
+  <programme start="20201021120000 -0500" stop="20201021140000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Alavés vs. Elche</title>
+  </programme>
+  <programme start="20201021140000 -0500" stop="20201021160000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">2013-2014: Real Madrid vs. Barcelona</title>
+  </programme>
+  <programme start="20201021160000 -0500" stop="20201021165500 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">El Clasico: The Movie</title>
+  </programme>
+  <programme start="20201021165500 -0500" stop="20201021170500 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20201021170500 -0500" stop="20201021191500 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Santos vs. Defensa y Justicia</title>
+  </programme>
+  <programme start="20201021191500 -0500" stop="20201021192000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20201021192000 -0500" stop="20201021213000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">River vs. Liga de Quito</title>
+  </programme>
+  <programme start="20201021213000 -0500" stop="20201021233000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Olimpia vs. Delfín</title>
+  </programme>
+  <programme start="20201021233000 -0500" stop="20201022013000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">River vs. Liga de Quito</title>
+  </programme>
+  <programme start="20201022013000 -0500" stop="20201022020000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">LaLiga 2020-2021: Getafe vs. Barcelona</title>
+  </programme>
+  <programme start="20201022060000 -0500" stop="20201022070000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">El Clasico: The Movie</title>
+  </programme>
+  <programme start="20201022073000 -0500" stop="20201022093000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Peñarol vs. Athletico Paranaense</title>
+  </programme>
+  <programme start="20201022100000 -0500" stop="20201022120000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Colo-Colo vs. Jorge Wilstermann</title>
+  </programme>
+  <programme start="20201022120000 -0500" stop="20201022140000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">São Paulo vs. Binacional</title>
+  </programme>
+  <programme start="20201022140000 -0500" stop="20201022160000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">2015-2016: Real Madrid vs. Barcelona</title>
+  </programme>
+  <programme start="20201022160000 -0500" stop="20201022165500 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Road to El Clásico</title>
+  </programme>
+  <programme start="20201022165500 -0500" stop="20201022170500 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20201022170500 -0500" stop="20201022191500 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Racing vs. Estudiantes de Mérida</title>
+  </programme>
+  <programme start="20201022191500 -0500" stop="20201022192000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20201022192000 -0500" stop="20201022213000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Flamengo vs. Junior</title>
+  </programme>
+  <programme start="20201022213000 -0500" stop="20201022233000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Nacional vs. Alianza Lima</title>
+  </programme>
+  <programme start="20201022233000 -0500" stop="20201023013000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Flamengo vs. Junior</title>
+  </programme>
+  <programme start="20201023233000 -0500" stop="20201024013000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Flamengo vs. Junior</title>
+  </programme>
+  <programme start="20201024013000 -0500" stop="20201024020000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">This is Paris</title>
+  </programme>
+  <programme start="20201024060000 -0500" stop="20201024070000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Road to El Clásico</title>
+  </programme>
+  <programme start="20201024073000 -0500" stop="20201024093000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Bolívar vs. Guaraní</title>
+  </programme>
+  <programme start="20201024100000 -0500" stop="20201024120000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Independiente del Valle vs. Barcelona</title>
+  </programme>
+  <programme start="20201024120000 -0500" stop="20201024140000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Palmeiras vs. Tigre</title>
+  </programme>
+  <programme start="20201024140000 -0500" stop="20201024160000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">2018 El Clasico: Barcelona vs. Real Madrid</title>
+  </programme>
+  <programme start="20201024160000 -0500" stop="20201024163000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Analyzing El Clásico</title>
+  </programme>
+  <programme start="20201024163000 -0500" stop="20201024170000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20201024170000 -0500" stop="20201024190000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">River vs. Liga de Quito</title>
+  </programme>
+  <programme start="20201024190000 -0500" stop="20201024192000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20201024192000 -0500" stop="20201024213000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Boca vs. Caracas</title>
+  </programme>
+  <programme start="20201024213000 -0500" stop="20201024223000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20201024223000 -0500" stop="20201025003000 -0500" channel="BEIN SPORTS *FHD">
+    <title lang="es">Gremio vs. América de Cali</title>
+  </programme>
+</tv>
